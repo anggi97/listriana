@@ -1,3 +1,4 @@
+<script type='application/ld+json'>
 {
 "@context": "https://schema.org/",
 "@type": "Review",
@@ -19,6 +20,8 @@
 "name": "LISTRIANA"
 }
 }
+</script>
+<script type='application/ld+json'>
 { "@context" : "http://schema.org",
   "@type" : "Organization",
   "url" : "https://listrianaa.blogspot.com",
@@ -27,12 +30,16 @@
       "telephone" : "+6282282687220",
       "contactType" : "customer service"
     } ] }
+</script>
+<script type='application/ld+json'>
 {
   "@context": "http://schema.org",
   "@type": "Organization",
   "url": "https://listrianaa.blogspot.com",
   "logo": "https://3.bp.blogspot.com/-guGr8e1ADAU/W-YyHBAiT2I/AAAAAAAAD3U/gKKrIJbY2mACswv-RFHGntVkAFrmyibOgCLcBGAs/s1600/logo.jpg"
 }
+</script>
+<script type='application/ld+json'>
 {
   "@context": "http://schema.org",
   "@type": "Person",
@@ -44,3 +51,4 @@
     "https://www.blogger.com/profile/05948087244158357074"
   ]
 }
+</script>
